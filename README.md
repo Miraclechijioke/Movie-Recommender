@@ -43,8 +43,9 @@ scikit-learn
 matplotlib
 awscli
 You can install the dependencies using pip:
+```python
 pip install pandas numpy scikit-learn matplotlib awscli
-
+```
 6. Results
 The SVD model was trained with the following parameters:
 
