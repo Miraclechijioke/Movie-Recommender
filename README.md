@@ -34,6 +34,9 @@ MovieID: Unique identifier for each movie.
 Rating: Rating given by the user to the movie (on a scale from 1 to 5).
 The dataset can be found in the data/ directory and is read from an S3 bucket.
 
+link to kaggle to download datasets:
+https://www.kaggle.com/competitions/alx-movie-recommendation-project-2024/data
+
 5. Instructions for Installing Dependencies
 Ensure you have the following Python packages installed:
 
